@@ -12,7 +12,7 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
+                link:"#",
                 time:"2018.11.12"
             },{
                 title:"数感提升mini课（下）",
@@ -20,8 +20,8 @@ var CONFIG = {
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.23"
             }
         ],
 		g1:[//一年级
@@ -31,23 +31,23 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.21"
             },{
                 title:"我是小作家之人物描写",
                 type:"yuwen",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.28"
             },{   
                 title:"数学必备3大思维方法",//课程标题
                 type:"shuxue",//课程类型
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
+                link:"#",
                 time:"2018.11.12"
             },{   
                 title:"解决26字母拼读",//课程标题
@@ -55,8 +55,8 @@ var CONFIG = {
                 total:8,//讲数
                 oPrice:120,//原价
                 price:72,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             }
         ],
         g2:[//二年级
@@ -66,23 +66,23 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.21"
             },{
                 title:"我是小作家之人物描写",
                 type:"yuwen",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.28"
             },{
                 title:"数学必会3大数学方法",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
+                link:"#",
                 time:"2018.11.12"
             },{
                 title:"零基础语法启蒙",
@@ -90,8 +90,8 @@ var CONFIG = {
                 total:8,
                 oPrice:120,
                 price:72,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.14"
             }
         ],
         g3:[//三年级
@@ -101,40 +101,40 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.22"
             },{
                 title:"语基提升—病句修改",
                 type:"yuwen",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.22"
             },{
                 title:"20分钟解锁阅读理解",
                 type:"yuwen",
                 total:7,
                 oPrice:105,
                 price:63,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.20"
             },{
                 title:"动手玩转数学趣题",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.15"
             },{
                 title:"三招搞定应用题审题",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.15"
             }
         ],
         g4:[//四年级
@@ -144,40 +144,40 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.22"
             },{
                 title:"语基提升—病句修改",
                 type:"yuwen",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.22"
             },{
                 title:"20分钟解锁阅读理解",
                 type:"yuwen",
                 total:7,
                 oPrice:105,
                 price:63,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.19"
             },{
                 title:"动手玩转数学趣题",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.15"
             },{
                 title:"三招搞定应用题审题",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.15"
             }
         ],
         g5:[//五年级
@@ -187,32 +187,32 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.09"
             },{
                 title:"3讲破译马云成功之道",
                 type:"yuwen",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.15"
             },{
                 title:"规避解方程神坑三诀窍",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.15"
             },{
                 title:"六大时态难点用法详解",
                 type:"yingyu",
                 total:6,
                 oPrice:90,
                 price:54,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             }
         ],
         g6:[//六年级
@@ -222,24 +222,24 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.09"
             },{
                 title:"小学必备三大巧算思想",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.15"
             },{
                 title:"六大时态难点用法详解",
                 type:"yingyu",
                 total:6,
                 oPrice:90,
                 price:54,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             }
         ]
 
@@ -252,39 +252,39 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             },{
                 title:"傻傻理不清的分类讨论",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.21"
             },{
                 title:"八年级上语法刷题(上)",
                 type:"yingyu",
                 total:7,
                 oPrice:120,
                 price:72,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.20"
             },{   
                 title:"三大从句分版块刷题",//课程标题
                 type:"yingyu",//课程类型
                 total:7,//讲数
                 oPrice:90,//原价
                 price:54,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.20"
             },{
                 title:"中西览胜之历史对比",
                 type:"lishi",
                 total:5,
                 oPrice:75,
                 price:45,
-                link:"",
+                link:"#",
                 time:"2018.11.12"
             },{
                 title:"初中地理金砖五法",
@@ -292,24 +292,24 @@ var CONFIG = {
                 total:5,
                 oPrice:75,
                 price:45,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             },{
                 title:"生物百科全书第一季",
                 type:"shengwu",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             },{
                 title:"中考生物宝典第一季",
                 type:"shengwu",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             }
         ],
         g2:[//初二
@@ -319,32 +319,32 @@ var CONFIG = {
                 total:3,//讲数
                 oPrice:45,//原价
                 price:27,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             },{
                 title:"巧解全等-三战全胜",
                 type:"shuxue",
                 total:3,
                 oPrice:45,
                 price:27,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.21"
             },{   
                 title:"三大从句分版块刷题",//课程标题
                 type:"yingyu",//课程类型
                 total:7,//讲数
                 oPrice:90,//原价
                 price:54,//活动价
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.20"
             },{
                 title:"物理实验五大题型",
                 type:"wuli",
                 total:5,
                 oPrice:75,
                 price:45,
-                link:"",
-                time:"2018.11.12"
+                link:"#",
+                time:"2018.11.13"
             }
         ],
         g3:[//初三
@@ -354,8 +354,17 @@ var CONFIG = {
                 total:7,//讲数
                 oPrice:90,//原价
                 price:54,//活动价
-                link:"",
+                link:"#",
                 time:"2018.11.12"
+            },
+            {
+                title: "压轴每周练-进步看得见",//课程标题
+                type: "shuxue",//课程类型
+                total: 4,//讲数
+                oPrice: 60,//原价
+                price: 36,//活动价
+                link: "#",
+                time: "2018.11.12"
             }
         ],
     },

@@ -49,7 +49,7 @@ body:after{
     top: 0;
     left: 0;
     background: url(img/quan.png) top center / 100% auto no-repeat;
-    animation: ss 8s .3s linear infinite;
+    animation: ss 5s .3s linear infinite;
 }
 .p1-wuzi{
     position: absolute;
@@ -58,7 +58,7 @@ body:after{
     top: 6.74rem;
     left: 0;
     background: url(img/btn.png) top center / auto 100% no-repeat;
-    animation: ss1 2s ease-in-out infinite;
+    animation: ss1 1s ease-in-out infinite;
 }
 .p1-wuzi .btn{
     position: absolute;
@@ -478,25 +478,25 @@ body:after{
 @keyframes ss{
     0%{
         transform:scale(1);
+        opacity: 1;
     }
-    45%{
+    70%{
         transform:scale(1.4);
-    }
-    55%{
-        transform:scale(1.4);
+        opacity: 1;
     }
     100%{
-        transform:scale(1);
+        transform:scale(1.4);
+        opacity: 0;
     }
 }
 @keyframes ss1{
     0%{
-        transform:scale(.9);
+        transform:scale(.85);
     }
-    50%{
+    40%{
         transform:scale(1);
     }
     100%{
-        transform:scale(.9);
+        transform:scale(.85);
     }
 }
